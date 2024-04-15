@@ -1,5 +1,5 @@
 # Onehub Ruby Library
-```
+```ruby
 require 'net/http'
 require 'json'
 
